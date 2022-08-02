@@ -1,0 +1,88 @@
+.image-carroseul{
+    object-position: 0 60%;
+    object-fit: cover;
+    height: 400px;
+}
+
+.image-carroseul2{
+    
+    object-fit: cover;
+    height: 400px;
+}
+
+header{
+    padding: 20px;
+    
+}
+
+nav{
+    box-shadow: 2px 2px 2px  rgba(48, 48, 48, 0.527);
+
+}
+
+.font-titulo, .navbar-brand{
+    font-family: 'Pacifico', cursive;
+}
+
+.nav-link{
+ color: black;
+ font-size: 18px;
+}
+
+.cor-especial{
+    color: darkred;
+}
+
+.botao-cor-especial{
+    background-color: darkred;
+    color: white; 
+}
+
+.borda-cor-especial{
+    border-color: rgba(139, 0, 0, 0.274);
+    box-shadow: 1px 1px 1px  rgba(48, 48, 48, 0.712);
+}
+
+
+.botao-cor-especial:hover{
+    color: rgba(255, 255, 255, 0.842);
+    background-color: rgb(122, 0, 0);
+}
+
+
+.largura-cards{
+    max-width: 18rem;
+}
+
+.imagem-receitas{
+    object-fit: cover;
+    height: 200px;
+}
+
+.card{
+    margin: 95px;
+}
+
+.botao-modal{
+    background-color: darkred;
+    color: white;
+}
+
+.botao-modal:hover{
+    color: rgba(255, 255, 255, 0.842);
+    background-color: rgb(122, 0, 0);
+}
+
+
+
+
+.styleFooter{
+    background-color: darkred;
+     color: white;
+}
+
+
+
+
+
+    
